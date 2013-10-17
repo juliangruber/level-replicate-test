@@ -1,0 +1,32 @@
+{
+  "name": "level-replicate-test",
+  "description": "Testing level replicate",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/level-replicate-test.git"
+  },
+  "homepage": "https://github.com/juliangruber/level-replicate-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {
+    "level": "*",
+    "level-replicate": "*",
+    "level-sublevel": "*",
+    "level-live-stream": "*",
+    "rimraf": "~2.2.2"
+  },
+  "keywords": [
+    "level",
+    "replication",
+    "test"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
