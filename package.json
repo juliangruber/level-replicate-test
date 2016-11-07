@@ -16,7 +16,7 @@
     "level-replicate": "*",
     "level-sublevel": "*",
     "level-live-stream": "*",
-    "rimraf": "~2.2.2"
+    "rimraf": "~2.5.4"
   },
   "keywords": [
     "level",
